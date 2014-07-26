@@ -1,11 +1,11 @@
-ZendSkeletonApplication
+ApplicationZendSkeleton
 =======================
 
-Introduction
+Introducción
 ------------
-This is a simple, skeleton application using the ZF2 MVC layer and module
-systems. This application is meant to be used as a starting place for those
-looking to get their feet wet with ZF2.
+Esta es una simple, aplicación base usando los layer y modulos de ZF2 MVC.
+Esta aplicación está destinada a ser utilizada como punto de partida para
+aquellos que están buscando aprender a usar ZF2.
 
 Installation
 ------------
